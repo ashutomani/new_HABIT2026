@@ -261,6 +261,7 @@ p + p { margin-top: 0.9em; }
   display: flex;
   align-items: center;
   gap: var(--space-4);
+   margin-left: auto;
 }
 .nav-link {
   font-weight: 500;
